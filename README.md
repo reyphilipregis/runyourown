@@ -1,3 +1,9 @@
+Main Technologies used:
+- PHP 8.2.6
+- Laravel 10.15.0
+- MySQL 8.0.3
+  
+
 Instructions:
 
 - php artisan migrate
